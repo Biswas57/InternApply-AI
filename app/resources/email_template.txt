@@ -1,0 +1,13 @@
+Dear Recruiter,
+
+I noticed you recruit for [Company] and have just seen the open role for [Position] prosition at [Company]. I was wondering whether you're still hiring for this position?
+
+{Briefly Show you did your research and are interested in the company, without sound too general, using the job description as a guide. Point to where your strengths lie in regards to the role and where you can help. }
+
+My portfolio showcases my capabilities in developing usefule and scalable projects that I'm passionate about and would like to highlight the following project:
+{ONLY 1 RELEVANT project link in the format: [Project Title]: [short description relevant the the job requirements] - [project link]}
+
+If the role is still open, and you think I'm a good fit, I have attached my resume with and overview relevant experience, coursework and technical skills and hope to hear from you soon.
+
+Kind Regards,
+[Full Name]
