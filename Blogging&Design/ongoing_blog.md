@@ -10,3 +10,12 @@ This software, however, is intended for a specific audience: students and profes
 ## Design Requirements
 
 
+### Future Improvements
+
+implement LinkedIn scraping maybe?
+remove portfolio csv, because it’s not scalable and its constantly changing, stick to resume and LinkedIn page only
+Learn how to implement LinkedIn API to retrieve all information
+
+Finish all the blogs and readmes
+
+Fixup Frontend of the website, maybe use react or something
